@@ -1,0 +1,18 @@
+[ 
+    {
+      "title": "home",
+      "address": "1140 Keighly Xing Dr.",
+      "city": "OFallon",
+      "state": "MO",
+      "zipcode": "63368",
+      "type": "residential"
+    },
+      {
+      "title": "shop",
+      "address": "1248 Continental Dr.",
+      "city": "Wentzville",
+      "state": "MO",
+      "zipcode": "63385",
+      "type": "commercial"
+    },
+  ]
