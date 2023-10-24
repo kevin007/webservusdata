@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Alfredo",
+    "age": "35",
+    "image": "images/cards/1.png"
+  },
+  {
+    "name": "Sol",
+    "age": "32",
+    "image": "images/cards/2.png"
+  },
+  {
+    "name": "Kyle",
+    "age": "31",
+    "image": "images/cards/3.png"
+  },
+  {
+    "name": "Robert",
+    "age": "29",
+    "image": "images/cards/1.png"
+  },
+  {
+    "name": "Ryan",
+    "age": "38",
+    "image": "images/cards/2.png"
+  },
+  {
+    "name": "Peter",
+    "age": "56",
+    "image": "images/cards/3.png"
+  },
+  {
+    "name": "Michael",
+    "age": "76",
+    "image": "images/cards/1.png"
+  },
+  {
+    "name": "Jeff",
+    "age": "20",
+    "image": "images/cards/2.png"
+  },
+  {
+    "name": "Paul",
+    "age": "49",
+    "image": "images/cards/3.png"
+  }
+]
