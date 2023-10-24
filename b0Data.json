@@ -1,18 +1,18 @@
 [
-    const b0Contact(
+    {
       username: 'Sarah Abs',
       email: 'sarah.abs@gmail.com',
-    ),
-    const b0Contact(
+    },
+    {
       username: 'Josh Davis',
       email: 'sarah.abs@gmail.com',
-    ),
-    const b0Contact(
+    },
+    {
       username: 'Kevin Sonderegger',
       email: 'sarah.abs@gmail.com',
-    ),
-    const b0Contact(
+    },
+    {
       username: 'Bobby Owens',
       email: 'sarah.abs@gmail.com',
-    ),
+    },
   ]
