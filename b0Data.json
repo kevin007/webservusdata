@@ -1,18 +1,18 @@
 [
     {
-      username: 'Sarah Abs',
-      email: 'sarah.abs@gmail.com',
+      "username": "Sarah Abs",
+      "email": "sarah.abs@gmail.com",
     },
     {
-      username: 'Josh Davis',
-      email: 'sarah.abs@gmail.com',
+      "username": "Josh Davis",
+      "email": "sarah.abs@gmail.com",
     },
     {
-      username: 'Kevin Sonderegger',
-      email: 'sarah.abs@gmail.com',
+      "username": "Kevin Sonderegger",
+      "email": "sarah.abs@gmail.com",
     },
     {
-      username: 'Bobby Owens',
-      email: 'sarah.abs@gmail.com',
+      "username": "Bobby Owens",
+      "email": "sarah.abs@gmail.com",
     },
   ]
